@@ -1,0 +1,90 @@
+Climate/Soil/Deposition sampling station Selhausen:
+   Id: SE_BDK_002
+   Handle: 20.500.11952/TERENO/00000601
+   Description: [Standort und Bodensensoren, neu]
+   Short name: SE_BDK_002
+   Security level: U
+   Origin: EIFEL-RUR-SoilCan
+   Projects:
+      Tereno
+   Phenomenons (Observed Properties):
+      SoilWaterContent_0.05m_Sensor3
+      SoilWaterContent_0.05m_Sensor2
+      SoilWaterContent_0.05m_Sensor1
+      AirHumidity_Relative_2m
+      Particle_Precipitation_1.5m_Cum1min
+      SoilTemperature_0.5m_SIS
+      Precipitation_Cum10min_OttRTNRT
+      SoilTemperature_0.05m_Sensor2
+      SoilTemperature_0.05m_Sensor1
+      SoilTemperature_0.05m_Sensor3
+      AirVisibility
+      Precipitation_Cum10min_RainCap
+      WindDirection_2m
+      Precipitation_Cum10min_OttNRTtotal
+      Precipitation_1m_Cum10min_OttNRT
+      Precipitation_1m_Cum10min_Ecotech
+      Precipitation_Cum1hr
+      RadiationGlobal_2m
+      AirPressure_2m
+      SoilWaterContent_0.2m_Sensor2
+      SoilWaterContent_0.2m_Sensor3
+      SoilTemperature_0.2m_Sensor2
+      Precipitation_1m_Cum1min
+      SoilWaterContent_0.2m_Sensor1
+      SoilTemperature_0.2m_Sensor3
+      SoilTemperature_0.5m_Sensor3
+      WindSpeed_2m
+      SoilWaterContent_0.5m_Sensor3
+      SoilWaterContent_0.5m_Sensor1
+      SoilWaterContent_0.5m_Sensor2
+      SoilTemperature_0.2m_Sensor1
+      AirTemperature_2m
+      SoilTemperature_0.5m_TS1
+   Accessible through:
+      http://ibg3wradar.ibg.kfa-juelich.de:8080/soilcan_public/sos
+      http://ibg3wradar.ibg.kfa-juelich.de:8080/soilcan_public/sos
+   Data available from 2013-04-24T18:00:00+02:00 to 2026-01-09T00:00:00+01:00
+   Location: 6.44944297,50.86880057
+   Responsible Contact:
+      role: PrincipalInvestigator
+      Organisation: Research Centre Juelich GmbH
+      Email: ma.schmidt@fz-juelich.de
+   Contact
+      role: PrincipalInvestigator
+      Organisation: Research Centre Juelich GmbH
+      Email: ma.schmidt@fz-juelich.de
+   Contact
+      role: PrincipalInvestigator
+      Organisation: Research Centre Juelich GmbH
+      Email: t.puetz@fz-juelich.de
+   Contact
+      role: PrincipalInvestigator
+      Organisation: Research Centre Juelich GmbH
+      Email: a.luecke@fz-juelich.de
+   Classifications:
+      SensorType: Pyranometer,Thermometer,VisibilitySensor,Ombrometer,Anemometer,Barometer,Frequency/Time Domain Reflectometer (FTDR),Hygrometer
+   Keywords:
+      Anemometer
+      Barometer
+      Frequency/Time Domain Reflectometer (FTDR)
+      Hygrometer
+      ISMN
+      Ombrometer
+      Parameter:Hydrology>Soil>temperature
+      Parameter:Hydrology>Soil>volumetricWaterContent
+      Parameter:Meteorology>->globalRadiation
+      Parameter:Meteorology>->precipitation
+      Parameter:Meteorology>Air>barometricPressure
+      Parameter:Meteorology>Air>relativeHumidity
+      Parameter:Meteorology>Air>temperature
+      Parameter:Meteorology>Air>windSpeed
+      Parameter:Meteorology>Wind>windDirection
+      Parameter:null>->null
+      Parameter:null>Air>null
+      Pyranometer
+      Site:Tereno>Eifel-Rur>Selhausen
+      Tereno
+      Thermometer
+      VisibilitySensor
+

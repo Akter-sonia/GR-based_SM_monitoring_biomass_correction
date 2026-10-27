@@ -1,0 +1,115 @@
+EC/Climate station Selhausen:
+   Id: SE_EC_001
+   Handle: 20.500.11952/TERENO/00000004
+   Description: [operative since 2011-04-28]
+   Short name: SE_EC_001
+   Security level: U
+   Origin: EIFEL-RUR
+   Projects:
+      Transregio32
+   Phenomenons (Observed Properties):
+      RadiationNet_Avg10min
+      SoilTemperature_0.01mAvg10min
+      AirPressure_1m_Avg30min
+      SoilWaterContent_0.02m_Avg10min_Sensor1
+      SoilWaterContent_0.02m_Avg10min_Sensor2
+      WindSpeed_2m_Avg30min
+      RadiationGlobal_Avg10min
+      AirZOverObukhovLength
+      AirHeatFlux_Sensible_RelErrNoise
+      AirConcentration_CO2_2m_Avg30min
+      AirHeatFlux_Sensible_RelErrRandom
+      AirFlux_CO2_RelErrNoise
+      SoilHeatFlux_0.03m_Avg10min
+      CO2Flux_Avg30min
+      AirFlux_CO2_Avg30min_BelowObsHeight
+      Radiation_ShortWaveOut_Avg10min
+      AirHumidity_Absolute_2m_Avg30min_LiCor
+      AirFlux_CO2_Avg30min_NetExchange
+      AirSensibleHeatFlux_2m_Avg30min
+      AirHeatFlux_Latent_2m_Avg30min
+      AirHumidity_2m_Avg10min
+      AirFlux_CO2_RelErrRandom
+      AirFrictionVelocity_RelErrRandom
+      Footprint_DistanceSourceContribution_Max30min
+      AirPressure_1m_Avg10min
+      RadiationLongWaveIncoming_Avg10min
+      Precipitation_Cum10min_TB
+      SoilTemperature_0.05mAvg10min
+      AirFrictionVelocity_RelErrNoise
+      AirHumidity_Absolute_2m_Avg30min_HMP
+      WindSpeed_2m_Avg10min
+      AirHeatFlux_Latent_RelErrNoise
+      AirTemperature_2m_Avg30min
+      RadiationPhotosyntheticActive_2m_Avg10min
+      AirHeatFlux_Latent_RelErrRandom
+      AirTemperature_2m_Avg10min_Sensor2
+      WindDirection_38m_Avg30min
+      AirTemperature_2m_Avg10min_Sensor1
+      SoilHeatFlux_0.08mAvg10minSensor2
+      SoilHeatFlux_0.08mAvg10minSensor1
+      WindDirection_2.52m_Avg10min
+      Footprint_SourceContribution_Cum30min
+      AirVaporPressure_2mAvg10min
+      Footprint_AdajcentAreaContribution_Cum30min
+      SoilTemperature_0.04mAvg10min
+      WindFrictionVelocity
+      RadiationLongWaveOutgoing_Avg10min
+   Accessible through:
+      http://ibg3wradar.ibg.kfa-juelich.de:8080/eifelrur_public/sos
+      http://ibg3wradar.ibg.kfa-juelich.de:8080/eifelrur_public/sos
+   Data available from 2011-04-28T16:20:00+02:00 to 2025-10-10T02:00:00+02:00
+   Location: 6.4473198,50.8658521
+   Responsible Contact:
+      role: PrincipalInvestigator
+      Organisation: Research Centre Juelich GmbH
+      Email: ma.schmidt@fz-juelich.de
+   Contact
+      role: PrincipalInvestigator
+      Organisation: Research Centre Juelich GmbH
+      Email: ma.schmidt@fz-juelich.de
+   Classifications:
+      SensorType: Pyranometer,Thermometer,Fluxmeter,Counter,Gas analyzer,Ombrometer,Time Domain Reflectometer (TDR),Anemometer,Barometer,HeatFlux,Hygrometer
+   Keywords:
+      Agrometeorology
+      Anemometer
+      Barometer
+      Carbon Dioxide
+      Counter
+      Fluxmeter
+      Gas Analyzer
+      HeatFlux
+      Hydrology
+      Hygrometer
+      Ombrometer
+      Parameter:Air Quality>->carbonDioxideFlux
+      Parameter:Air Quality>Air>carbonDioxide
+      Parameter:Air Quality>Air>carbonDioxideFlux
+      Parameter:Air Quality>Air>carbonDioxideFlux
+      Parameter:Hydrology>Soil>temperature
+      Parameter:Hydrology>Soil>volumetricWaterContent
+      Parameter:Meteorology>->globalRadiation
+      Parameter:Meteorology>->precipitation
+      Parameter:Meteorology>->radiationIncomingLongwave
+      Parameter:Meteorology>->radiationNet
+      Parameter:Meteorology>->radiationNetPAR
+      Parameter:Meteorology>->radiationOutgoingLongwave
+      Parameter:Meteorology>->radiationOutgoingShortwave
+      Parameter:Meteorology>Air>barometricPressure
+      Parameter:Meteorology>Air>distance
+      Parameter:Meteorology>Air>frictionVelocity
+      Parameter:Meteorology>Air>latentHeatFlux
+      Parameter:Meteorology>Air>sensibleHeatFlux
+      Parameter:Meteorology>Air>temperature
+      Parameter:Meteorology>Air>vaporPressure
+      Parameter:Meteorology>Air>waterVaporConcentration
+      Parameter:Meteorology>Air>windSpeed
+      Parameter:Meteorology>Soil>groundHeatFlux
+      Parameter:Meteorology>Wind>windDirection
+      Pyranometer
+      Site:Tereno>Eifel-Rur>Selhausen
+      Tereno
+      Thermometer
+      Time Domain Reflectometer (TDR)
+      Transregio32
+
